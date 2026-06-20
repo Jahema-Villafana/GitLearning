@@ -1,0 +1,1 @@
+Random stuff to put into newfile.txt to test git stash.
